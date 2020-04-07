@@ -8,7 +8,7 @@ namespace vjezba1
     {
         static void Main(string[] args)
         {
-            
+            //promjena napravljena
         }
     }
 }
