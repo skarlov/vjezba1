@@ -8,6 +8,7 @@ namespace vjezba1
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("Novi kolaborant: emakaroglan");
+            Console.WriteLine("Novi kolaborant: elagrg");
         }
     }
 }
